@@ -14,6 +14,6 @@ MojeID implementation for ruby Sinatra
 
 == Copyright
 
-Copyright (c) 2012 Richard Říman. See LICENSE.txt for
+Copyright (c) 2012 Shizo (based on Richard Říman - mojeid). See LICENSE.txt for
 further details.
 
